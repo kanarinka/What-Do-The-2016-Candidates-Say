@@ -12,6 +12,7 @@ The folder for each candidate contains the raw data from each appearance as well
 
 Data scraped and compiled by myself, Yuval Shapira and [the Engagement Lab](http://elab.emerson.edu). Python script to assemble the files by Guy Shapira.
 
+Use this data with [DataBasic.io](https://www.databasic.io) to start doing some basic text analysis on the candidates, like the below:
 
 ## Hillary Clinton
 
@@ -29,4 +30,5 @@ Data scraped and compiled by myself, Yuval Shapira and [the Engagement Lab](http
 
 ![Image](images/DonaldTrump.png?raw=true)
 
-Use this data with [DataBasic.io](https://www.databasic.io) to start doing some basic text analysis on the candidates.
+Images created with [DataBasic.io](https://www.databasic.io).
+
