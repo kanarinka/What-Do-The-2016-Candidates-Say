@@ -10,4 +10,4 @@ Their speeches were scraped from the web and from videos with closed captions. A
 
 The folder for each candidate contains the raw data from each appearance as well as high-level summaries of their most frequently used words, bigrams (two-word phrases) and trigrams (three-word phrases).
 
-Data scraped and compiled by myself, Yuval Shapira and the Engagement Lab. Python script to assemble the files by Guy Shapira.
+Data scraped and compiled by myself, Yuval Shapira and [the Engagement Lab](http://elab.emerson.edu). Python script to assemble the files by Guy Shapira.
