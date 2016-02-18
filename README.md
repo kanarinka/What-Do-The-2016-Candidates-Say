@@ -1,10 +1,10 @@
 # What-Do-The-2016-Candidates-Say
 
 This repo contains political speech from four political candidates for president in 2016: 
-- Hillary Clinton
-- Ted Cruz
-- Bernie Sanders
-- Donald Trump
+- Hillary Clinton - 97,457 words
+- Ted Cruz - 72,243 words
+- Bernie Sanders - 166,292 words
+- Donald Trump - 318,134 words
 
 Their speeches were scraped from the web and from videos with closed captions. All of the speech was taken during the time of their candidacy for president and has to do with their campaigns. This is NOT exhaustive. We have compiled political speech from around 20-25 appearances from each candidate. 
 
